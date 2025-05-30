@@ -1,0 +1,14 @@
+[
+  {
+    "orderId": 1,
+    "customer": "Ahmet Yýlmaz",
+    "total": 250.0,
+    "status": "Onaylandý"
+  },
+  {
+    "orderId": 2,
+    "customer": "Zeynep Kaya",
+    "total": 120.5,
+    "status": "Hazýrlanýyor"
+  }
+]
